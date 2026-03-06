@@ -1,4 +1,4 @@
-# AI Data Analysis Agent
+#📊  AI Data Analysis Agent
 
 ## Project Overview
 AI Data Analysis Agent is a Python-based project that automatically analyzes datasets and generates insights.  
