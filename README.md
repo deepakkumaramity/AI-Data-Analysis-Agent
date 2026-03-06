@@ -63,7 +63,7 @@ This dataset helps demonstrate a real-world data analysis workflow.
 
 Clone the repository
 
-git clone https://github.com/yourusername/AI-Data-Analysis-Agent.git
+git clone https://github.com/deepakkumaramity/AI-Data-Analysis-Agent.git
 
 Move to project folder
 
