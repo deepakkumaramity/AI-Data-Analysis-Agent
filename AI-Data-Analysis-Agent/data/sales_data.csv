@@ -1,0 +1,9 @@
+OrderID,Region,Category,Sales,Profit
+1,West,Electronics,1200,200
+2,East,Furniture,850,120
+3,West,Electronics,640,80
+4,North,Clothing,400,50
+5,South,Furniture,720,90
+6,West,Electronics,1500,260
+7,East,Clothing,300,30
+8,North,Electronics,980,150
